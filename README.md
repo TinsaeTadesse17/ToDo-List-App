@@ -30,25 +30,17 @@ To get a local copy up and running, follow these steps.
 3. To edit a task, click on the task text. A prompt will appear allowing you to edit the task.
 4. To delete a task, click the "Done" button next to the task.
 
-## Project Structure
 
-ToDo-List-App/
-│
-├── css/
-│   └── styles.css        # CSS file for styling the application
-│
-├── scripts/
-│   └── main.js           # JavaScript file for handling task interactions
-│
-├── index.html            # HTML file for the ToDo List application
-└── README.md             # This README file
+### Screenshots
 
-Screenshots
 Main Interface
+
 <img width="869" alt="screenshot #1" src="https://github.com/user-attachments/assets/302fba1c-42b1-470d-8e7a-ca88f18e3cee">
 
 Adding a Task
+
 <img width="869" alt="screenshot#2" src="https://github.com/user-attachments/assets/25fe9a47-bf3f-4bb6-b065-5181466c5fca">
 
 Editing a Task
+
 <img width="868" alt="screenshot #3" src="https://github.com/user-attachments/assets/b079113d-d5de-4654-9efb-f2a31b1248e3">
